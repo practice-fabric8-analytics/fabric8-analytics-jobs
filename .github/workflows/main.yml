@@ -34,4 +34,4 @@ jobs:
       with:
         python-version: '3.6'
     - name: Run Unit Tests
-      run: bash qa/runtests.sh
+      run: bash qa/runtest.sh
